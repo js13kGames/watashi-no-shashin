@@ -1,4 +1,7 @@
 ---
+genres:
+  - casual
+  - arcade
 post: https://hambley.me.uk/blog/diaryofagame
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
